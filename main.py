@@ -3,6 +3,7 @@ import cv2
 import os
 import pickle
 
+print("hello")
 
 def move_images():
     face_dir = os.path.join(image_dir, x)
